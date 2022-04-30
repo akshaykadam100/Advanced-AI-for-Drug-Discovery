@@ -1,1 +1,1 @@
-# Advanced-AI-for-Drug-Discovery
+# Advanced AI for Drug Discovery of Covid Genome Sequences
